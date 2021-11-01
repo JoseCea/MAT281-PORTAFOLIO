@@ -11,8 +11,7 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoseCea/MAT281-PORTAFOLIO/master))
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoseCea/MAT281-PORTAFOLIO/master)
 ### Setup
 
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
